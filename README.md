@@ -10,5 +10,10 @@ Any live cell with more than three live neighbors dies, as if by overpopulation.
 Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
 The initial pattern constitutes the seed of the system. The first generation is created by applying the above rules simultaneously to every cell in the seed; births and deaths occur simultaneously, and the discrete moment at which this happens is sometimes called a tick. Each generation is a pure function of the preceding one. The rules continue to be applied repeatedly to create further generations.
 
+
+## Pattern
+
+The R-pentomino
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Game_of_life_fpento.svg/1280px-Game_of_life_fpento.svg.png)
 ---
 Source : https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
