@@ -13,7 +13,8 @@ The initial pattern constitutes the seed of the system. The first generation is 
 
 ## Pattern
 
-The R-pentomino
+The R-pentomino  
+
 <img width="150" height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Game_of_life_fpento.svg/1280px-Game_of_life_fpento.svg.png"/>
 ---
 Source : https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
